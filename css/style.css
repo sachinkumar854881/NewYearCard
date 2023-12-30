@@ -53,11 +53,13 @@ body{
     margin:10px;
 }
 .card .title h2{
+    color:darkmagenta;
     font-family:"Eczar",serif;
     font-size:25px;
     text-transform:uppercase;
 }
 .card .title h1{
+    color:red;
     font-family:"Berkshire Swash",cursive;
     font-size:60px;
     letter-spacing:2px;
